@@ -3,9 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-pets/mvnw
-pets/mvnw.cmd
-pets/.mvn/
+/pets/mvnw
+/pets/mvnw.cmd
+/pets/.mvn/
 
 
 ### STS ###
@@ -174,3 +174,4 @@ node_modules
 psd
 thumb
 sketch
+
